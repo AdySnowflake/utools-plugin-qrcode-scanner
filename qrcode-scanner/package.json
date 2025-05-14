@@ -1,5 +1,6 @@
 {
   "author": "kyuuseiryuu",
+  "name": "qrcode-scanner",
   "pluginName": "二维码扫描",
   "homepage": "https://github.com/kyuuseiryuu/utools-plugin-qrcode-scanner",
   "main": "./pages/index.html",
